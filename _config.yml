@@ -2,3 +2,4 @@ theme: jekyll-theme-minimal
 title: [Dev Tools]
 description: [Welcome to my curated list of tech tools]
 logo: logo.png
+show_downloads: false
