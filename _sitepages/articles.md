@@ -1,3 +1,8 @@
+---
+title: Articles
+layout: page
+position: 1
+---
 # Articles 
 
 ## Javascript
