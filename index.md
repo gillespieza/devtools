@@ -18,7 +18,7 @@ Keyframes is a visual tool that can generate CSS. It has a visual timeline edito
 
 ## Browser Testing
 ### [Responsively](https://responsively.app/) (software)
-A modified browser that helps in responsive web development. 
+Responsively App is a modified browser that helps in responsive web development. It can mirror user interactions and displays for multiple devices, allowing developers to view multiple versions of their sites at once. A GIF preview is available.
 [https://responsively.app/](https://responsively.app/)
 
 --------------
