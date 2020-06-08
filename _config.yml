@@ -3,12 +3,3 @@ title: [Dev Tools]
 description: [Welcome to my curated list of tech tools]
 logo: ./assets/logo.png
 show_downloads: false
-sitepages:
-  output: true
-  permalink: /pages/:name
-defaults:
-  scope:
-    path: ""
-    type: "sitepages"
-  values:
-    layout: "page"

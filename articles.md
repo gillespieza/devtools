@@ -1,7 +1,7 @@
 ---
 title: Articles
-layout: page
-position: 1
+layout: default
+rank: 1
 ---
 # Articles 
 
