@@ -16,6 +16,11 @@ Grid.js is a HTML table plugin written in TypeScript. It is easy to use, extensi
 Keyframes is a visual tool that can generate CSS. It has a visual timeline editor similar to video-editing software that can be used to create animations. Developers can create shadow effects and select colors using the Keyframes interface. The generated CSS code can be copied to the clipboard with a click. 
 [https://keyframes.app/v2/](https://keyframes.app/v2/)
 
+## Browser Testing
+### [Responsively](https://responsively.app/) (software)
+A modified browser that helps in responsive web development. 
+[https://responsively.app/](https://responsively.app/)
+
 --------------
 
 # Misc

@@ -6,5 +6,7 @@ show_downloads: false
 navigation:
   - title: Home
     url: /
+    - title: Javascript
+      url: /#js
   - title: Articles
     url: articles
