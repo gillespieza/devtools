@@ -1,7 +1,7 @@
 ---
-title: Articles
 layout: default
-rank: 1
+title: Articles
+rank: 3
 ---
 # Articles 
 

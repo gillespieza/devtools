@@ -1,123 +1,28 @@
 ---
 layout: default
 ---
+# Javascript
+## Tables and Data Tables
+### [Grid.js](https://gridjs.io/) (website)
+Grid.js is a HTML table plugin written in TypeScript. It is easy to use, extensible, and open source. Grid.js works with most JavaScript frameworks. An example of the working code is available on the site. 
+[https://gridjs.io/](https://gridjs.io/)
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+--------------
 
-[Link to another page](./another-page.html).
+# CSS
+## Animations 
+### [Keyframes](https://keyframes.app/v2/) (website)
 
-There should be whitespace between paragraphs.
+Keyframes is a visual tool that can generate CSS. It has a visual timeline editor similar to video-editing software that can be used to create animations. Developers can create shadow effects and select colors using the Keyframes interface. The generated CSS code can be copied to the clipboard with a click. 
+[https://keyframes.app/v2/](https://keyframes.app/v2/)
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+--------------
 
-# Header 1
+# Misc
+### [JWT.IO](https://jwt.io/) (website)
+JSON Web Token is an internet standard for securing data. It is a useful tool for authorization and information exchange. JWT.IO allows developers to decode, verify, and generate JWT. A list of libraries for token signing and verification, sorted by programming languages, is available.
+[https://jwt.io/](https://jwt.io/)
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+### [Push-button installer of macOS on VirtualBox](https://github.com/myspaghetti/macos-virtualbox) (GitHub Repo)
+macos-guest-virtualbox.sh is a Bash script that installs macOS on a virtual guest machine on Virtualbox. It uses unmodified macOS installation files downloaded directly from Apple servers. Users will only need to follow the prompts to install macOS.
+[https://github.com/myspaghetti/macos-virtualbox](https://github.com/myspaghetti/macos-virtualbox)
