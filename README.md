@@ -22,3 +22,7 @@ Keyframes is a visual tool that can generate CSS. It has a visual timeline edito
 ### [JWT.IO](https://jwt.io/) (website)
 JSON Web Token is an internet standard for securing data. It is a useful tool for authorization and information exchange. JWT.IO allows developers to decode, verify, and generate JWT. A list of libraries for token signing and verification, sorted by programming languages, is available.
 [https://jwt.io/](https://jwt.io/)
+
+### [Push-button installer of macOS on VirtualBox](https://github.com/myspaghetti/macos-virtualbox) (GitHub Repo)
+macos-guest-virtualbox.sh is a Bash script that installs macOS on a virtual guest machine on Virtualbox. It uses unmodified macOS installation files downloaded directly from Apple servers. Users will only need to follow the prompts to install macOS.
+[https://github.com/myspaghetti/macos-virtualbox](https://github.com/myspaghetti/macos-virtualbox)
