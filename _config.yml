@@ -8,7 +8,7 @@ sitepages:
   permalink: /pages/:name
 
 defaults:
-  - scope:
+  scope:
     path: ""
     type: "sitepages"
   values:
