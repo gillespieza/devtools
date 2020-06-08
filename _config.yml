@@ -6,5 +6,5 @@ show_downloads: false
 navigation:
   - title: Home
     url: /
-  - title: Setup
-    url: setup
+  - title: Articles
+    url: articles
