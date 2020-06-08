@@ -8,4 +8,10 @@ Grid.js is a HTML table plugin written in TypeScript. It is easy to use, extensi
 ## Animations 
 ### [Keyframes](https://keyframes.app/v2/) (website)
 
-Keyframes is a visual tool that can generate CSS. It has a visual timeline editor similar to video-editing software that can be used to create animations. Developers can create shadow effects and select colors using the Keyframes interface. The generated CSS code can be copied to the clipboard with a click. [https://keyframes.app/v2/](https://keyframes.app/v2/)
+Keyframes is a visual tool that can generate CSS. It has a visual timeline editor similar to video-editing software that can be used to create animations. Developers can create shadow effects and select colors using the Keyframes interface. The generated CSS code can be copied to the clipboard with a click. 
+[https://keyframes.app/v2/](https://keyframes.app/v2/)
+
+# Misc
+### [JWT.IO](https://jwt.io/) (website)
+JSON Web Token is an internet standard for securing data. It is a useful tool for authorization and information exchange. JWT.IO allows developers to decode, verify, and generate JWT. A list of libraries for token signing and verification, sorted by programming languages, is available.
+[https://jwt.io/](https://jwt.io/)
