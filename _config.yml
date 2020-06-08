@@ -6,7 +6,13 @@ show_downloads: false
 navigation:
   - title: Home
     url: /
-  - title: Javascript
+  - title: #Javascript
     url: /#js
+  - title: #Javascript
+    url: /#css
+  - title: #Misc
+    url: /#misc
   - title: Articles
     url: articles
+  - title: Programming Languages
+    url: languages
