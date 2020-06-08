@@ -7,6 +7,6 @@ navigation:
   - title: Home
     url: /
   - title: Javascript
-    url: /#js
+    url: articles
   - title: Articles
     url: articles
