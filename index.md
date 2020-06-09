@@ -7,6 +7,11 @@ layout: default
   Grid.js is a HTML table plugin written in TypeScript. It is easy to use, extensible, and open source. Grid.js works with most JavaScript frameworks. An example of the working code is available on the site. 
   [https://gridjs.io/](https://gridjs.io/)
 
+## Misc
+- ### [Favorite single line of code](https://1loc.dev/) (Website)
+  This website contains a collection of JavaScript utilities that fit within a single line of code. Categories include arrays, date time, DOM, number, string, and misc. Users are welcome to contribute to the list.
+  [https://1loc.dev/](https://1loc.dev/)
+
 --------------
 
 # CSS<a name="css"></a>
