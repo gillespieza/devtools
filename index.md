@@ -27,6 +27,13 @@ layout: default
 
 --------------
 
+# Web Design (General)<a name="design"></a>
+- ### [No Design Development](https://nodesign.dev/) (Website)
+  This website contains a collection of tools to help developers design websites without requiring any artistic ability. Developers can select resources from categories including Art, Fonts, Color, Generators, Inspiration, Videos, and more. Examples of resources include photo libraries, CSS generators, and logo makers.
+  [https://nodesign.dev/](https://nodesign.dev/)
+
+--------------
+
 # Misc<a name="misc"></a>
 - ### [JWT.IO](https://jwt.io/) (website)
   JSON Web Token is an internet standard for securing data. It is a useful tool for authorization and information exchange. JWT.IO allows developers to decode, verify, and generate JWT. A list of libraries for token signing and verification, sorted by programming languages, is available.
