@@ -10,7 +10,9 @@ navigation:
     url: /#js
   - title: ~ CSS
     url: /#css
-  - title: ! Misc
+  - title: ~ General Web Design
+    url: /#design
+  - title: ~ Misc
     url: /#misc
   - title: Articles
     url: articles
