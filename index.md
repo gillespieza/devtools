@@ -5,7 +5,7 @@ layout: default
 ## Tables and Data Tables
 - ### [Grid.js](https://gridjs.io/) (website)
   Grid.js is a HTML table plugin written in TypeScript. It is easy to use, extensible, and open source. Grid.js works with most JavaScript frameworks. An example of the working code is available on the site.
-  
+
   [https://gridjs.io/](https://gridjs.io/)
 
 ## Misc
@@ -36,6 +36,14 @@ layout: default
   This website contains a collection of tools to help developers design websites without requiring any artistic ability. Developers can select resources from categories including Art, Fonts, Color, Generators, Inspiration, Videos, and more. Examples of resources include photo libraries, CSS generators, and logo makers.
 
   [https://nodesign.dev/](https://nodesign.dev/)
+
+--------------
+
+# Bootstrap<a name="bootstrap"></a>
+- ### [Bootstrap Magic 4.0](https://pikock.github.io/bootstrap-magic/) (Website)
+  Create your Bootstrap 4.0 themes easily. Live preview, live HTML coding to help you create your Bootstrap 4.0 theme direclty in your browser
+
+  [https://pikock.github.io/bootstrap-magic/](https://pikock.github.io/bootstrap-magic/)
 
 --------------
 
