@@ -29,6 +29,12 @@ layout: default
 
   [https://responsively.app/](https://responsively.app/)
 
+## Icons
+- ### [CSS.gg](https://css.gg/) (Website)
+  This site contains over 700 CSS, SVG, and Figma UI icons available in SVG Sprite, styled-components, NPM, & API. The library is searchable and users can customize the size and color of the icons.
+  
+  [https://css.gg/](https://css.gg/)
+
 --------------
 
 # Web Design (General)<a name="design"></a>
