@@ -17,9 +17,9 @@ layout: default
 --------------
 
 # CSS<a name="css"></a>
-## Animations 
+## Animations
 - ### [Keyframes](https://keyframes.app/v2/) (website)
-  Keyframes is a visual tool that can generate CSS. It has a visual timeline editor similar to video-editing software that can be used to create animations. Developers can create shadow effects and select colors using the Keyframes interface. The generated CSS code can be copied to the clipboard with a click. 
+  Keyframes is a visual tool that can generate CSS. It has a visual timeline editor similar to video-editing software that can be used to create animations. Developers can create shadow effects and select colors using the Keyframes interface. The generated CSS code can be copied to the clipboard with a click.
 
   [https://keyframes.app/v2/](https://keyframes.app/v2/)
 
@@ -32,8 +32,13 @@ layout: default
 ## Icons
 - ### [CSS.gg](https://css.gg/) (Website)
   This site contains over 700 CSS, SVG, and Figma UI icons available in SVG Sprite, styled-components, NPM, & API. The library is searchable and users can customize the size and color of the icons.
-  
+
   [https://css.gg/](https://css.gg/)
+
+- ### [Rough Awesome Font](https://djamshed.github.io/rough-awesome-font/dist/) (website)
+  This page contains a library of SVG icons with a rough hand-drawn effect. Users can search for icons and customize the color and background of the icons. The SVG source can be copied directly into your projects.
+
+  [https://djamshed.github.io/rough-awesome-font/dist/](https://djamshed.github.io/rough-awesome-font/dist/)
 
 --------------
 
@@ -53,7 +58,7 @@ layout: default
 
 --------------
 
-# Misc<a name="misc"></a>
+# Miscellaneous<a name="misc"></a>
 - ### [JWT.IO](https://jwt.io/) (website)
   JSON Web Token is an internet standard for securing data. It is a useful tool for authorization and information exchange. JWT.IO allows developers to decode, verify, and generate JWT. A list of libraries for token signing and verification, sorted by programming languages, is available.
 
